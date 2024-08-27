@@ -10,7 +10,6 @@ import { Footer } from "@/sections/footer";
 export default function Home() {
   return (
     <>
-    teste
       <Header />
       <Hero />
       <LogoTicker />
